@@ -28,7 +28,7 @@
     "deep-freeze-strict": "^1.1.1",
     "expect": "^1.14.0",
     "foundation-sites": "^6.2.0",
-    "jquery": "^2.2.1",
+    "jquery": "^3.0.0",
     "node-sass": "^4.5.0",
     "react-addons-test-utils": "^0.14.7",
     "react-redux": "^5.0.3",
